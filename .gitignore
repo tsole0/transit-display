@@ -1,2 +1,2 @@
 # Protect api key from exposure
-.json
+*.json
